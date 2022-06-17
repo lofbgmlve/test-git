@@ -33,3 +33,4 @@ testestsetset - master
 master - master 는 pull 이 가능 ! 
 master commit 된거는 new 에서 rebase로 받아와야 한당 ! 
 그리고 interctive Rebase 에 스타트를 해주고 ! 
+- master 는 master 것을 pull 할 수 있음 !!!!!!  오예 ! 
