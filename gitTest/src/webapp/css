@@ -7,8 +7,18 @@ test
  나는 master !! test 할거야 !! 
  왜 master push가 안되는거야 !? 
  - master push 는 안되는데 ! master꺼 rebase는 되는거야 !? - new
+<<<<<<< HEAD
  다시한번 테스트 한다 -new  
  - new의 값을 가져와라 얍
  왜 안되는건데 ? ??  - masterv  ?? 
  why!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  // 왜 ????
+=======
+<<<<<<< HEAD
+ 다시한번 테스트 한다 -new
+ ?
+ 와 나 진짜 모르겠네 !!!! 
+=======
+ 다시한번 테스트 한다 -new
+>>>>>>> branch 'new' of https://github.com/lofbgmlve/test-git.git
+>>>>>>> branch 'master' of https://github.com/lofbgmlve/test-git.git
